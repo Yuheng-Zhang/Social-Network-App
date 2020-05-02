@@ -22,7 +22,7 @@ To give you a first insight, here are some snapshots of our web applicaton.
 <img alt="SignupScreen" src="https://github.com/Yuheng-Zhang/Social-Network-App/blob/master/Login%20screen.png" width="800" text-align="center">
 
 ## Video
-We make a video to introduce out project. You can watch it from [here](https://youtu.be/xT4uTTYC0Bk).
+We make a video to introduce our project. You can watch it from [here](https://youtu.be/xT4uTTYC0Bk).
 
 
 ## Running this package:
